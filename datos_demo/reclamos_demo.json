@@ -1,0 +1,5 @@
+[
+  {"numero_reclamo": "RC-2026-000087", "dni": "10000001", "ultimos_4": "5521", "id_transaccion": "TX-1000", "tipo_reclamo": "cobro_indebido", "descripcion": "Cobro de membresía anual que me ofrecieron exonerada.", "fecha_registro": "2026-10-22", "fecha_limite_respuesta": "2026-11-12", "estado": "Cerrado - procedente", "respuesta": "Se devolvió la membresía anual de S/ 199.00 (simulado)."},
+  {"numero_reclamo": "RC-2026-000101", "dni": "10000002", "ultimos_4": "7788", "id_transaccion": "TX-2001", "tipo_reclamo": "compra_no_recibida", "descripcion": "Compra online pagada y nunca entregada.", "fecha_registro": "2026-11-05", "fecha_limite_respuesta": "2026-11-26", "estado": "En evaluación", "respuesta": null},
+  {"numero_reclamo": "RC-2026-000095", "dni": "10000003", "ultimos_4": "3344", "id_transaccion": "TX-3002", "tipo_reclamo": "consumo_no_reconocido", "descripcion": "Compra web en dólares después de bloquear la tarjeta.", "fecha_registro": "2026-10-01", "fecha_limite_respuesta": "2026-10-22", "estado": "En evaluación", "respuesta": null}
+]

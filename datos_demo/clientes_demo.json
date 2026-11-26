@@ -1,0 +1,24 @@
+[
+  {
+    "dni": "10000001",
+    "nombre": "Ana Demo Ríos",
+    "tarjetas": [
+      {"ultimos_4": "5521", "producto": "Tarjeta Horizonte Clásica", "tipo": "titular", "estado": "Activa", "fecha_bloqueo": null, "dia_corte": 5}
+    ]
+  },
+  {
+    "dni": "10000002",
+    "nombre": "Bruno Ficticio Paz",
+    "tarjetas": [
+      {"ultimos_4": "7788", "producto": "Tarjeta Horizonte Platinum", "tipo": "titular", "estado": "Activa", "fecha_bloqueo": null, "dia_corte": 20},
+      {"ultimos_4": "7799", "producto": "Tarjeta Horizonte Platinum", "tipo": "adicional", "estado": "Activa", "fecha_bloqueo": null, "dia_corte": 20}
+    ]
+  },
+  {
+    "dni": "10000003",
+    "nombre": "Carla Prueba Soto",
+    "tarjetas": [
+      {"ultimos_4": "3344", "producto": "Tarjeta Horizonte Oro", "tipo": "titular", "estado": "Bloqueada", "fecha_bloqueo": "2026-11-15", "dia_corte": 10}
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {"id_transaccion": "TX-1000", "ultimos_4": "5521", "fecha": "2026-10-20", "comercio": "MEMBRESIA ANUAL TARJETA", "monto": 199.00, "moneda": "PEN", "estado": "procesado", "canal": "cargo del emisor", "codigo_autorizacion": "000000"},
+  {"id_transaccion": "TX-1001", "ultimos_4": "5521", "fecha": "2026-11-10", "comercio": "SUPERMERCADO DEMO SAC", "monto": 250.00, "moneda": "PEN", "estado": "procesado", "canal": "presencial", "codigo_autorizacion": "A10001"},
+  {"id_transaccion": "TX-1002", "ultimos_4": "5521", "fecha": "2026-11-10", "comercio": "SUPERMERCADO DEMO SAC", "monto": 250.00, "moneda": "PEN", "estado": "procesado", "canal": "presencial", "codigo_autorizacion": "A10002"},
+  {"id_transaccion": "TX-1003", "ultimos_4": "5521", "fecha": "2026-11-12", "comercio": "GRIFO FICTICIO NORTE", "monto": 120.00, "moneda": "PEN", "estado": "procesado", "canal": "presencial", "codigo_autorizacion": "A10003"},
+  {"id_transaccion": "TX-1004", "ultimos_4": "5521", "fecha": "2026-11-14", "comercio": "HOTEL DEMO CUSCO", "monto": 480.00, "moneda": "PEN", "estado": "pendiente", "canal": "presencial", "codigo_autorizacion": "A10004"},
+  {"id_transaccion": "TX-1005", "ultimos_4": "5521", "fecha": "2026-11-14", "comercio": "HOTEL DEMO CUSCO", "monto": 480.00, "moneda": "PEN", "estado": "procesado", "canal": "presencial", "codigo_autorizacion": "A10005"},
+  {"id_transaccion": "TX-1006", "ultimos_4": "5521", "fecha": "2026-11-18", "comercio": "STREAMFLIX DEMO", "monto": 12.99, "moneda": "USD", "estado": "procesado", "canal": "online", "codigo_autorizacion": "A10006"},
+  {"id_transaccion": "TX-2001", "ultimos_4": "7788", "fecha": "2026-11-03", "comercio": "TIENDA ONLINE DEMO", "monto": 899.90, "moneda": "PEN", "estado": "procesado", "canal": "online", "codigo_autorizacion": "B20001"},
+  {"id_transaccion": "TX-2002", "ultimos_4": "7788", "fecha": "2026-11-20", "comercio": "RESTAURANTE DEMO MIRAFLORES", "monto": 150.00, "moneda": "PEN", "estado": "procesado", "canal": "presencial", "codigo_autorizacion": "B20002"},
+  {"id_transaccion": "TX-2101", "ultimos_4": "7799", "fecha": "2026-11-08", "comercio": "ELECTRO DEMO HOGAR", "monto": 1200.00, "moneda": "PEN", "estado": "procesado", "canal": "presencial", "codigo_autorizacion": "B21001"},
+  {"id_transaccion": "TX-3001", "ultimos_4": "3344", "fecha": "2026-11-13", "comercio": "FARMACIA DEMO", "monto": 85.00, "moneda": "PEN", "estado": "procesado", "canal": "presencial", "codigo_autorizacion": "C30001"},
+  {"id_transaccion": "TX-3002", "ultimos_4": "3344", "fecha": "2026-11-16", "comercio": "COMPRAS WEB DEMO", "monto": 640.00, "moneda": "USD", "estado": "procesado", "canal": "online", "codigo_autorizacion": "C30002"}
+]
