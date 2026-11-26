@@ -1,0 +1,5 @@
+[
+  {"id_asesor": "ASE-021", "nombre": "Lucía Demo Vargas", "area": "Seguridad, bloqueos y fraude", "telefono": "(01) 555-0121", "anexo": "21", "horario": "24 horas, todos los días", "motivos": ["bloqueo_tarjeta", "fraude_en_curso"]},
+  {"id_asesor": "ASE-034", "nombre": "Marco Ficticio Luna", "area": "Reclamos y operaciones", "telefono": "(01) 555-0134", "anexo": "34", "horario": "Lunes a sábado, 8:00 a 20:00", "motivos": ["operacion_no_autogestionable", "reclamo_vencido"]},
+  {"id_asesor": "ASE-047", "nombre": "Rosa Prueba Quispe", "area": "Atención preferente", "telefono": "(01) 555-0147", "anexo": "47", "horario": "Lunes a viernes, 9:00 a 18:00", "motivos": ["solicitud_cliente", "vulnerabilidad"]}
+]
